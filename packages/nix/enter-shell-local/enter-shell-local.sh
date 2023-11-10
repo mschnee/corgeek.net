@@ -38,7 +38,7 @@ export KUBE_CONFIG_PATH="$DEVENV_ROOT/.kube/config"
 # Use repo-local AWS settings
 export AWS_SHARED_CREDENTIALS_FILE="$DEVENV_ROOT/.aws/credentials"
 export AWS_CONFIG_FILE="$DEVENV_ROOT/.aws/config"
-export AWS_PROFILE=development-superuser
+# export AWS_PROFILE=development-superuser
 
 #############################################
 ## Azure

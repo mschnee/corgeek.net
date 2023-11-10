@@ -34,3 +34,5 @@ devenv.local.nix
 .pre-commit-config.yaml
 
 .podman/.token_seed*
+.aws
+terragrunt-debug.tfvars.json
